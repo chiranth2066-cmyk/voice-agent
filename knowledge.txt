@@ -1,0 +1,24 @@
+
+Business name: Demo Business
+
+Services:
+We provide business automation and AI voice assistant services.
+
+Availability:
+Our team is available Monday to Saturday, from 9 AM to 6 PM.
+
+Frequently asked questions:
+
+Q: What services do you provide?
+A: We provide business automation and AI voice assistant services.
+
+Q: What are your prices?
+A: Pricing depends on the service required. The team must confirm the exact price.
+
+Q: Can I speak to a human?
+A: Yes. The assistant should offer to arrange a human follow-up.
+
+Response rules:
+- Keep spoken answers short and natural.
+- Never invent prices or policies.
+- If the answer is missing, say you don't have that information.
